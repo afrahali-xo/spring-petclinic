@@ -1,4 +1,4 @@
-FROM maven:3.8.3-OPENJDK-17
+FROM maven:3.8.3-openjdk-17
 
 LABEL author="afrah" project="spring-petclinic"
 
